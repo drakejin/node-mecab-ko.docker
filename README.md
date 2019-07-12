@@ -1,4 +1,4 @@
-# Version Release
+# Release note
 
 - `drakejin/node-mecab-ko`:`10.15.3`
   - `node:10.15.3`
