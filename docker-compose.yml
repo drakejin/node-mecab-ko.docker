@@ -1,0 +1,8 @@
+version: '3.2'
+
+services:
+  node-mecab:
+    container_name: node-mecab-ko
+    image: drakejin/node-mecab-ko:10.15.3
+    build:
+      context: .
